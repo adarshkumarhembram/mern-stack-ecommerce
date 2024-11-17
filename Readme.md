@@ -29,5 +29,4 @@ This is a full-stack E-commerce application built with **React** for the fronten
 - **Product Management**: Admins can create, update, and delete products.
 - **Category Management**: Admins can create, update, and delete product categories.
 
-## Project Structure
 
